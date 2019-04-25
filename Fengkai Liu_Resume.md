@@ -11,13 +11,14 @@
 Consumer BG/Software Engineering/Technology Planning & Pre-Research Dept
 
 - As a developer in publishing the Honor Magic (the world's first AI mobile phone). Responsible for the development of some system apps.
-- Improved the Miracast system in android and developed a Windows client to mirror apps to PC.
+- Developed a new technique to mirror apps to different platforms from android system and made a cross-platform client to show it.
 
 #### BeWinner Technologies Co, Ltd.                                                        Sep/2011-June/2016
 
 Software Development Dept
 
-- 
+- Full stack developer responsible for end-to-end android app development and web service. Led a team of five members.
+- Built and maintained a billing system used for SMS users.
 
 ### EDUCATION
 
@@ -27,7 +28,7 @@ Software Development Dept
 
 Software Engineering
 
-Bachelor of Engineering
+Bachelor Degree
 
 ### SKILLS
 
