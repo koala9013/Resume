@@ -15,7 +15,7 @@ Android senior engineer
 ***Key Accomplishments:***
 
 - As a developer in publishing the Honor Magic (the world's first AI mobile phone). Responsible for the development of some system apps.
-- Co-developed a decision making system using rule management system and machine learning algrithom.
+- Co-developed a decision making system using rule management system and machine learning algorithm.
 - Designed a new technique to mirror apps to different platforms from android system and developed a cross-platform system to implement it.
 
 #### BeWinner Technologies Co, Ltd.                                                        Sep/2011-June/2016
