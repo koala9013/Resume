@@ -2,7 +2,7 @@
 
 ### lfk9013@gmail.com
 
-### PROFESSIONAL EXPERIENCE
+### EXPERIENCE
 
 ***
 
