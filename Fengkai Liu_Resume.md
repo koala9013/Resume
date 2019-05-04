@@ -25,7 +25,7 @@ Java developer, Sep 2011 - June 2016
 
 - Established partnership with outside web developers to construct a distributed web service.
 - Full stack developer responsible for end-to-end android app development and web service. Led a team of five members.
-- Defined system/user requirements to design, develop, document of a billing system. Parterned with web developers to create a distributed web service.
+- Defined system/user requirements to design, develop, document of a billing system. Partnered with web developers to create a distributed web service.
 
 ### EDUCATION
 
