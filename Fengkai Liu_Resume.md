@@ -10,12 +10,12 @@ Consumer BG/Software Engineering/Technology Planning & Pre-Research Dept
 
 Android senior engineer, June 2016 - Present
 
-- Designed an unique way to project the views of any app from an android device to multiple android or Windows devices.
-- Developed a Windows client based on C++ and extract a cross-platform socket library can be used by both android  and windows.
-- Refactor the constructure of Huawei Voice Assistant. Improved the speed of transmission and recognition by 40%.
-- Designed a new algorithm for Email in android to accelerate the loading speed by 70%.
-- Built the prototype of HiVision (scan paintings, buildings or food calorie info) and HiAction (detect the content on the screen and capture specific items).
-- Designed and developed a cross-platform system to mirror apps from android system to other platforms including windows, linux, IOS based on a new technique.
+- Designed a cross-platform (Android, Windows and macOS) system for mirroring apps from android devices to other systems.
+- Developed a C++ based Windows client used to project apps from android devices.
+- Improve the transmission and recognition speed of Huawei Voice Assistant by 40% after the code refactoring.
+- Increased email loading speed in EMUI by 70% with a highly performance algorithm.
+- Built artifical intelligence prototype (HiVision & HiAction) for image recognition and information extraction.
+- Participated in the development of Magic Live system released on the Honor Magic (first AI mobile phone in industry).
 
 #### BeWinner Technologies Co, Ltd.                                                        
 
@@ -29,7 +29,9 @@ Java developer, Sep 2011 - June 2016
 
 ### SKILLS
 
-Java, C++, python, kotlin, javascript
+**Language**: Java, C++, python, kotlin, javascript
+
+**Tools**: Git, Android Studio, Pycharm, Visiual Studio, etc.
 
 ### EDUCATION
 
